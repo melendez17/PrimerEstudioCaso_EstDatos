@@ -55,7 +55,9 @@ pilaDinamica/
 ```
 Infija:   (5+3)*2
 Postfija: 53+2*
+
 ```
+<img width="330" height="170" alt="image" src="https://github.com/user-attachments/assets/d4033ec6-290d-4af7-99c4-3ec7a32ccfe4" />
 
 ## Clase principal (Main)
 
